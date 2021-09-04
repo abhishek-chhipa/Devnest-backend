@@ -1,2 +1,2 @@
 # Devnest-backend
-***this repo contains everyday take home assignments given by Devnest***
+***this repo contains everyday take home assignments given by Devsnest***
