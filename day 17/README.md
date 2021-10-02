@@ -1,3 +1,0 @@
-- pagination
-- sql injection
-- https
